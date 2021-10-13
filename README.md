@@ -1,1 +1,1 @@
-# C-37-HW
+# project-template-kangaroo-2
